@@ -11,3 +11,4 @@ markdown
 # Environment and utility packages
 python-dotenv
 requests
+pysqlite3-binary
