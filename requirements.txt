@@ -1,0 +1,13 @@
+streamlit
+python-dateutil
+
+# CrewAI and its dependencies
+crewai
+crewai-tools
+
+# For handling markdown
+markdown
+
+# Environment and utility packages
+python-dotenv
+requests
